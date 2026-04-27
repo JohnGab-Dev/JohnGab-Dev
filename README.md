@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Gab
 
-<!--
-**JohnGab-Dev/JohnGab-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Optional GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
-Here are some ideas to get you started:
+🧑‍💻 About Me
+- 💼 Web Developer
+- 🌱 Currently learning: Advance web development concepts.
+- 🎯 Goal: Become a full stack web developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: Laravel, PHP, CodeIgniter, Express
+- Languages: Java, C++, Python, Node JS
+
+📫 Connect with Me
+- GitHub: [https://github.com/JohnGab-Dev](https://github.com/JohnGab-Dev)
+- Email: [gabrielcompleto3433@gmail.com]
