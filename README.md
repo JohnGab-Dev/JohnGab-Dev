@@ -17,5 +17,5 @@
 - Languages: Java, C++, Python, Node JS
 
 📫 Connect with Me
-- GitHub: [https://github.com/JohnGab-Dev](https://github.com/JohnGab-Dev)
-- Email: [gabrielcompleto3433@gmail.com](gabrielcompleto3433@gmail.com)
+- GitHub: [JohnGab-Dev](https://github.com/JohnGab-Dev)
+- Email: gabrielcompleto3433@gmail.com
