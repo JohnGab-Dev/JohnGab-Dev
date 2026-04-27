@@ -5,6 +5,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
+<p align="center" font-weighty="20">
+   Hi 👋, I'm John Gabriel Completo
+</p>
+
 🧑‍💻 About Me
 - 💼 Web Developer
 - 🌱 Currently learning: Advance web development concepts.
