@@ -1,9 +1,7 @@
 <!-- Optional GIF -->
-<p align="center" width="100%">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
-<p align="center" font-weighty="20">
+<p align="center" font-weight="20">
    Hi 👋, I'm John Gabriel Completo
 </p>
 
