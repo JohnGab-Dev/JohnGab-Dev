@@ -1,9 +1,9 @@
 <!-- Optional GIF -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
-<p align="center" font-weight="20">
+<h2 align="center" font-weight="20">
    Hi 👋, I'm John Gabriel Completo
-</p>
+</h2>
 
 🧑‍💻 About Me
 - 💼 Web Developer
@@ -17,4 +17,4 @@
 
 📫 Connect with Me
 - GitHub: [https://github.com/JohnGab-Dev](https://github.com/JohnGab-Dev)
-- Email: [gabrielcompleto3433@gmail.com]
+- Email: [gabrielcompleto3433@gmail.com](gabrielcompleto3433@gmail.com)
