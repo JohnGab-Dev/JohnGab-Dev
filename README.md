@@ -3,7 +3,7 @@
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║       HI! I AM J O H N   G A B R I E L   C O M P L E T O      ║
+║     HI👋  I AM J O H N   G A B R I E L   C O M P L E T O      ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
@@ -35,6 +35,7 @@ Hey there! I'm **John Gabriel**, a passionate web developer from the Philippines
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,js,jquery" />
 </p>
+
 ### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,express,mysql" />
