@@ -31,7 +31,7 @@ Hey there! I'm **John Gabriel**, a passionate web developer from the Philippines
 
 ## Tech Stack
 
-###  Frontend
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,js,jquery" />
 </p>
@@ -40,12 +40,12 @@ Hey there! I'm **John Gabriel**, a passionate web developer from the Philippines
   <img src="https://skillicons.dev/icons?i=laravel,express,mysql" />
 </p>
 
-###  Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=php,nodejs,py,java,cpp" />
 </p>
 
-###  Other tools
+### Other tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman" />
 </p>
