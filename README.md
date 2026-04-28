@@ -8,7 +8,7 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-### `< Full Stack Developer in Progress />`
+### `< Full Stack Developer />`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Web+Developer+%F0%9F%92%BB;React+%7C+Laravel+%7C+Node.js+%7C+Express;Building+clean+%26+scalable+web+apps;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
@@ -31,18 +31,23 @@ Hey there! I'm **John Gabriel**, a passionate web developer from the Philippines
 
 ## Tech Stack
 
-### 🎨 Frontend
+###  Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,js,jquery" />
 </p>
-### ⚙️ Backend
+###  Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,codeigniter,express" />
+  <img src="https://skillicons.dev/icons?i=laravel,express,mysql" />
 </p>
 
-### 🧠 Languages
+###  Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=php,nodejs,python,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=php,nodejs,py,java,cpp" />
+</p>
+
+###  Other tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman" />
 </p>
 
 ---
@@ -68,8 +73,8 @@ Hey there! I'm **John Gabriel**, a passionate web developer from the Philippines
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-JohnGab--Dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnGab-Dev)
-[![Email](https://img.shields.io/badge/Gmail-gabrielcompleto3433%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcompleto3433@gmail.com)
+[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/JohnGab-Dev)
+[<img src="https://skillicons.dev/icons?i=gmail" />](mailto:gabrielcompleto3433@gmail.com)
 
 </div>
 
