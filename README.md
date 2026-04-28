@@ -69,7 +69,7 @@ Hey there! I'm **John Gabriel**, a passionate web developer from the Philippines
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
