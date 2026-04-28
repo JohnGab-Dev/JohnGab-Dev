@@ -76,6 +76,7 @@ Hey there! I'm **John Gabriel**, a passionate web developer from the Philippines
 
 [<img src="https://skillicons.dev/icons?i=github" />](https://github.com/JohnGab-Dev)
 [<img src="https://skillicons.dev/icons?i=gmail" />](mailto:gabrielcompleto3433@gmail.com)
+[<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQF6n7ZB4ldvjQAAAZ3RoLropuxXThp2mmVHiMSj023hF_5cb0-rnWRmi8kUceDuH-hyL3XzVUEAPRGNnGRtuX6RW7X2GxVTG3F6m7wLoNse4xfPLO54OWmbPpKK0-PyLuXL7nY=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohn-gabriel-completo-98a634404%3Futm_source%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dmember_android)
 
 </div>
 
